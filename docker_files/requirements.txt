@@ -1,0 +1,7 @@
+selenium==4.9.1
+webdriver_manager==4.0.2
+pandas==2.2.3
+beautifulsoup4==4.12.3
+python-dotenv==0.21.0
+psycopg2-binary
+lxml
