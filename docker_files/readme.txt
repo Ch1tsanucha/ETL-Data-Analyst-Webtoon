@@ -1,3 +1,5 @@
+-- run build.sh to build this docker image --
+
 -- Make .env like --
 DB_NAME=webtoon
 DB_USER=airflow
