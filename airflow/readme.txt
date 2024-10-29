@@ -21,6 +21,8 @@ docker exec -it <docker id of postgres> psql -h postgres -U airflow -d airflow -
 -U USER
 -d DATABASE_NAME
 -p PORT
+
+CREATE DATABASE webtoon;
 --------------------------------------------
 
 
