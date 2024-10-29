@@ -1,3 +1,5 @@
+-- run start_airflow.sh to start make airflow service --
+
 -- Add Proxy --
   docker-socket-proxy:
     image: tecnativa/docker-socket-proxy:latest
